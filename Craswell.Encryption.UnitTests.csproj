@@ -41,7 +41,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Craswell.Encryption\Craswell.Encryption.csproj">
+    <ProjectReference Include="..\automation-encryption\Craswell.Encryption.csproj">
       <Project>{5FD7EF01-84F9-425B-95E9-41CF3CB258CB}</Project>
       <Name>Craswell.Encryption</Name>
     </ProjectReference>
